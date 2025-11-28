@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nirajkumar2001/nirajkumar2001/output/snake.svg" alt="Snake animation" />
 
 ###
